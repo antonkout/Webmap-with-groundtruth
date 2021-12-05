@@ -19,6 +19,5 @@ A Web map image database for the visualization of the ground truth imagery. The 
 ------------------------------------------------
  <br>
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/39597223/144761988-2704b5d5-5dba-4645-92bd-ca84b514a22a.gif
- width="500" height="400" >
+  <img src=https://user-images.githubusercontent.com/39597223/144761988-2704b5d5-5dba-4645-92bd-ca84b514a22a.gif width="900" height="500" >
   </p>
